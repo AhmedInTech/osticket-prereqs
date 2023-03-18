@@ -22,9 +22,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
+- create azure account
+- create virtual machines (windows 10 and ubuntu)
+- if using mac, download microsoft remote desktop
 - Item 4
 - Item 5
 
