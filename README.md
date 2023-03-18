@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Steps Taken</h2>
 
 - create azure account
 - create virtual machines (windows 10 and ubuntu)
@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 4
 - Item 5
 
-<h2>Steps</h2>
+<h2>Visual Guide</h2>
 
 <p>
 <img src="https://i.imgur.com/BeW6Lyk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
