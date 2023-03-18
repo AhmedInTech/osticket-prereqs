@@ -20,13 +20,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>Steps Taken</h2>
+<h2>Steps</h2>
 
 - create azure account
-- create virtual machines (windows 10 and ubuntu)
-- if using mac, download microsoft remote desktop. windows users can skip this step
-- Item 4
-- Item 5
+- setup a virtual machine
+- install the osTicket requirements
+- install osTicket
 
 <h2>Visual Guide</h2>
 
