@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - create azure account
 - create virtual machines (windows 10 and ubuntu)
-- if using mac, download microsoft remote desktop
+- if using mac, download microsoft remote desktop. windows users can skip this step
 - Item 4
 - Item 5
 
@@ -51,7 +51,7 @@ Once you're in now you want to create a resource group and two virtual machines,
 <img src="https://i.imgur.com/xgYeQae.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-If you're using mac, you'll have to download microsoft remote desktop from the app store in order to access your virtual machine.
+If you're using mac, you'll have to download microsoft remote desktop from the app store in order to access your virtual machine. If using windows, you can just search for remote desktop on your computer, it should already be installed. 
 </p>
 <br />
 
@@ -75,7 +75,7 @@ The host name is simply the IP address of your virtual machine.
 <img src="https://i.imgur.com/BXcABT6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-You can find the IP address by clicking on your virtual machine. Copy and paste it into the microsoft remote desktop app. You will then be asked to login, your login info is the same login you created when setting up your virtual machine.
+You can find the IP address by clicking on your virtual machine. Copy and paste it into the microsoft remote desktop app. For windows users just simply copy and paste the IP address to remote desktop app. You will then be asked to login, your login info is the same login you created when setting up your virtual machine.
 </p>
 <br />
 
