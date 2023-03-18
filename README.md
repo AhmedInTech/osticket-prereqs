@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/BeW6Lyk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First thing you would want to do is to create an Azure subscription. At the time of writing, Azure comes with a free $200 credit which is more than enough for this project. Once you are in your screen should look like something like this. Do not mind the Resource Group section because since you just created an account you will have to create your own resource group.
+First thing you would want to do is to create an Azure subscription. At the time of writing, Azure comes with a free $200 credit which is more than enough for this project. Once you are in your screen should look something like this. Do not mind the Resource Group section because since you just created an account you will have to create your own resource group.
 </p>
 <br />
 
