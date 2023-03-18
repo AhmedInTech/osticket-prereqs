@@ -39,10 +39,10 @@ First thing you would want to do is to create an Azure subscription. At the time
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nUJHALh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once you're in now you want to create a resource group and two virtual machines, one running windows 10 and the other running ubuntu. This step is pretty straightforward, and also make sure you remember the username and password you created for your virtual machine, as it will be important soon. 
 </p>
 <br />
 
