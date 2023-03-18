@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 First things first, please keep in mind that softwares are being updated regularly so maybe when you're trying this project things might look a little different and some things might not even work, but this will help you build your problem-solving skills. 
-The first step is to create an Azure subscription. At the time of writing, Azure comes with a free $200 credit which is more than enough for this project. Once you are in your screen should look something like this. Do not mind the Resource Group section because since you just created an account you will have to create your own resource group.
+The first step is to create an Azure subscription. At the time of writing, Azure comes with a free $200 credit which is more than enough for this project. Once you are in your screen should look something like this. Do not mind the Resource Group section because since you just created an account yours will be blank.
 </p>
 <br />
 
